@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1643746747531,916,/wiki/Ronaldo_(Brazilian_footballer)-43,200,OK,Thread Group 1-1,text,true,,174097,413,5,5,https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer),618,0,473
+1643746747740,812,/wiki/Ronaldo_(Brazilian_footballer)-43,200,OK,Thread Group 1-2,text,true,,174097,413,4,4,https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer),473,0,334
+1643746747960,790,/wiki/Ronaldo_(Brazilian_footballer)-43,200,OK,Thread Group 1-3,text,true,,174097,413,3,3,https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer),452,0,327
+1643746748162,755,/wiki/Ronaldo_(Brazilian_footballer)-43,200,OK,Thread Group 1-4,text,true,,174097,413,2,2,https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer),436,0,323
+1643746748346,802,/wiki/Ronaldo_(Brazilian_footballer)-43,200,OK,Thread Group 1-5,text,true,,174097,413,1,1,https://en.wikipedia.org/wiki/Ronaldo_(Brazilian_footballer),448,0,349
